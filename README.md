@@ -23,3 +23,6 @@ https://github.com/httpsaryan/Holistic-Data-Driven-Banking
 
 
 ## 1. Project Overview <a name="projectoverview"></a>
+- This README describes work on the 7 Datasets of Banking for the Fundamentals of Data Analysis module assessment, which is due 15 December 2024. Resources used include Python and the associated packages Jupyter, numpy, matplotlib, seaborn, and Pandas, which are all part of the Python distribution.
+- The analysis takes the form of a single Jupyter notebook of filename given above. To view this file, download it from this repository and start Jupyter notebook in the folder containing the file. Use the command **python -m notebook** on the command line.
+- 
