@@ -13,11 +13,17 @@ https://github.com/httpsaryan/Holistic-Data-Driven-Banking
 1. [Introduction](#introduction)
 
 2. [Project overview](#section2)
+<br>
    2.1 [Objective](#sec2.1)
+<br>
         2.1.1 [Understand Customer Behaviour](#sec2.1.1)
+<br>
         2.1.2 [Assess Branch Performance](#sec2.1.2)
+<br>
         2.1.3 [Identify Optimization Opportunities](#sec2.1.3)
+<br>
    2.2 [Data Sources](#sec2.2)
+<br>
    2.3 [Tools/Libraries](#sec2.3)
 
 
