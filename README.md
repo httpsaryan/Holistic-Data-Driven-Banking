@@ -34,15 +34,15 @@ https://github.com/httpsaryan/Holistic-Data-Driven-Banking
 ## 2. Project Overview <a name="section2"></a>
 The primary goal of this analysis is to gain deep insights into the bank's operations and customer behavior by examining seven core data sets. Through comprehensive data analysis and modeling, we aim to:
 
-### 2.1 Objective <a name="sec1"></a>
+### 2.1 Objective <a name="sec2.1"></a>
 
-#### 2.1.1 Understand Customer Behaviour <a name="sec2p1"></a>
+#### 2.1.1 Understand Customer Behaviour <a name="sec2.1.1"></a>
 Gain a comprehensive understanding of customer interactions with the bank, including account activity, loan utilization, and payment habits. 
 
-#### 2.1.2 Assess Branch Performance <a name="sec2p2"></a>
+#### 2.1.2 Assess Branch Performance <a name="sec2.1.2"></a>
 Evaluate the efficiency and effectiveness of individual branches based on key metrics such as customer footfall, transaction volume, and loan disbursals.
 
-#### 2.1.3 Identify Optimization Opportunities <a name="sec2p3"></a>
+#### 2.1.3 Identify Optimization Opportunities <a name="sec2.1.3"></a>
 Discover potential areas for improvement in customer experience, operational efficiency, and revenue generation.
 
 ### 2.2 Data Sources <a name="sec2.2"></a>
