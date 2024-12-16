@@ -11,4 +11,4 @@ https://github.com/httpsaryan/Holistic-Data-Driven-Banking
 
 # Table of contents
 1. [Project overview] (#introduction)
-2. [description of datasets] (#section2)
+2. [Description of datasets] (#section2)
