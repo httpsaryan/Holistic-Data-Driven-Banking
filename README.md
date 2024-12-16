@@ -10,4 +10,5 @@ https://github.com/httpsaryan/Holistic-Data-Driven-Banking
 - Csv data sets: accountsdata.csv, branches.csv, customer_data.csv, kyc.csv, loans.csv, payments.csv, transactionsdata.csv
 
 # Table of contents
-1. [Project overview] (#projectoverview)
+1. [Project overview] (#introduction)
+2. [description of datasets] (#section2)
