@@ -1,2 +1,2 @@
-# Python-Project
-This repo contains My Python Projects
+# Banking Data Analysis
+This repo contains my data analysis project on Banking
