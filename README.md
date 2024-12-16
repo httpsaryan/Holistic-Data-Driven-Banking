@@ -23,10 +23,23 @@ https://github.com/httpsaryan/Holistic-Data-Driven-Banking
 
    2.3 [Tools/Libraries](#sec2.3)
 
+3. [Data Understanding](#dataunderstanding)
+
+   3.1 [Data Description](#datadescription)
+   - Accounts:
+   - Branches:
+   - Customer:
+   - KYC:
+   - Loans:
+   - Payments:
+   - Transactions:
+
+   3.2 [Data Quality Issues](#dataqualityissues)
+
+   3.3 [Summary Statistics](#stats)
 
 
-
-
+4. [Data Preparation](#dataprep)
 
 ## 1. Introduction <a name="introduction"></a>
 - This README describes work on the 7 Datasets of Banking for the Fundamentals of Data Analysis module assessment, which is due 15 December 2024. Resources used include Python and the associated packages Jupyter, numpy, matplotlib, seaborn, and Pandas, which are all part of the Python distribution.
