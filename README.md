@@ -100,7 +100,7 @@ To delve deep into the bank's operations and customer behavior, we embarked on a
 - It contains 1043 rows and 5 columns.
 - Data types of these columns -> account_id, customer_id, branch_id: integer/numbers ; account_type: string/text/object ; balance: float/decimal
 
-  
+![Accounts](png/accounts.png)  
 
 
 2. ### Branches:
