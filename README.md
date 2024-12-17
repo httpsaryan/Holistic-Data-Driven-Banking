@@ -148,7 +148,7 @@ To delve deep into the bank's operations and customer behavior, we embarked on a
 - This file contains 2061 rows and 4 columns.
 - Data types of these columns -> transaction_id, account_id: integer/numbers ; transaction_type: string/text/object, amount: float/decimal
 
-![Transactions](png.transactions.png)
+![Transactions](png/transactions.png)
 
 
   
