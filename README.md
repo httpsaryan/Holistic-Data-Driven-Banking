@@ -175,13 +175,14 @@ Here I'm dropping all values because filling all those 33 missing values will no
 
 Columns after null dropping: 1043 entries
 Data columns: 5
- #   Column    |    Non-Null Count 
----  ------        -------------- 
- 0   account_id  |  1043 non-null | 
- 1   customer_id |  1043 non-null |  
- 2   branch_id   |  1043 non-null  | 
- 3   account_type | 1043 non-null | 
- 4   balance   |    1043 non-null | 
+
+ # |  Column    |    Non-Null Count 
+----|----------|-------------------- 
+ 0  | account_id  |  1043 non-null | 
+ 1 | customer_id |  1043 non-null |  
+ 2 | branch_id   |  1043 non-null  | 
+ 3 | account_type | 1043 non-null | 
+ 4 | balance   |    1043 non-null | 
 
 
 
