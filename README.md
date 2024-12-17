@@ -159,11 +159,13 @@ To delve deep into the bank's operations and customer behavior, we embarked on a
 1. ### Accounts:
 ![image](https://github.com/user-attachments/assets/0ae7a02d-b6b3-4211-a22a-721f8598c09e)
 
-account_id      11
-customer_id     11
-branch_id       11
-account_type     0
-balance          0
+Columns      |  No. of Nulls  |
+-------------|----------------|
+account_id   |       11       |
+customer_id  |       11       |
+branch_id    |       11       |
+account_type |       0        |
+balance      |       0        |
 
   
 
