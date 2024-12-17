@@ -32,15 +32,11 @@ https://github.com/httpsaryan/Holistic-Data-Driven-Banking
    3.3 [Summary Statistics](#stats)
 
 
-4. [Data Preparation](#dataprep)
+4. [Relationship building](#relations)
 
-   4.1 [Data Cleaning](#cleaning)
+5. [Insights](#insights)
 
-5. [Relationship building](#relations)
-
-6. [Insights](#insights)
-
-7. [Action Steps](#actionsteps)
+6. [Action Steps](#actionsteps)
 
 
 
@@ -339,10 +335,8 @@ Dropping duplicates
 
 
 
-
 #### 3. KYC
 ![image](https://github.com/user-attachments/assets/96a75853-63ed-4ef0-bd1f-427d06231419)
-
 
 
 
@@ -353,10 +347,8 @@ Dropping duplicates
 
 
 
-
 #### 5. Payments
 ![image](https://github.com/user-attachments/assets/18a6bc0f-f5cd-421c-adfa-8d26edd37e38)
-
 
 
 
@@ -367,10 +359,7 @@ Dropping duplicates
 
 
 
-
-
-
-
+## 4. Relationship Building <a name="relations"></a>
 
 
 
