@@ -1,5 +1,5 @@
 # Banking Data Analysis
-### By - Aryan Singh and Ujwala Ramteke
+### By - Aryan Singh
 
 ### Banking Data Analytics Project 2024 
 
@@ -97,7 +97,7 @@ To delve deep into the bank's operations and customer behavior, we embarked on a
 ### 3.1 Data Description <a name="description"></a>
 1. ### Accounts:
 - This dataset provides granular information about customer accounts, including account numbers, opening dates, account types, and balances. By analyzing this data, we can identify trends in account openings, closures, and balance fluctuations.
-- It contains 1043 rows and 5 columns.
+- It contains 1054 rows and 5 columns.
 - Data types of these columns -> account_id, customer_id, branch_id: integer/numbers ; account_type: string/text/object ; balance: float/decimal
 
 ![Accounts](png/accounts.png)  
@@ -146,10 +146,24 @@ To delve deep into the bank's operations and customer behavior, we embarked on a
 7. ### Transactions:
 - This dataset contains transaction history for all accounts, including transaction dates, amounts, and transaction types. By analyzing this data, we can understand customer spending patterns, identify high-value customers, and detect potential fraudulent activities.
 - This file contains 2061 rows and 4 columns.
-- Data types of these columns -> transaction_id, account_id: integer/numbers ; transaction_type: string/text/object, amount: float/decimal
+- Data types of these columns -> transaction_id, account_id: integer/numbers ; transaction_type: string/text/object ; amount: float/decimal
 
 ![Transactions](png/transactions.png)
 
+
+
+### 3.2 Data Quality Issues <a name="quality"></a>
+
+### Null Handling: Dealing with missing values
+
+1. ### Accounts:
+![image](https://github.com/user-attachments/assets/0ae7a02d-b6b3-4211-a22a-721f8598c09e)
+
+account_id      11
+customer_id     11
+branch_id       11
+account_type     0
+balance          0
 
   
 
