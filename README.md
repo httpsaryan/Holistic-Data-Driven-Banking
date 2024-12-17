@@ -291,8 +291,14 @@ This dataset doesn't have any null, duplicates, or any inconsistencies
 ![image](https://github.com/user-attachments/assets/ccd2c610-58c3-4256-a6f7-02f449fdf2d7)
 
 
+
+
+
 #### 6. Payments: Null handling
+
 No null values in this dataset
+
+
 ![image](https://github.com/user-attachments/assets/206645d3-174f-465f-9285-25ce5f2fcbc5)
 
 
@@ -300,9 +306,12 @@ No null values in this dataset
 
 
 
-No duplicates in this dataset
-![image](https://github.com/user-attachments/assets/ba9e2671-2cdb-4612-88a1-406de41c926a)
 
+No duplicates in this dataset
+
+
+
+![image](https://github.com/user-attachments/assets/ba9e2671-2cdb-4612-88a1-406de41c926a)
 
 
 
@@ -314,6 +323,8 @@ No duplicates in this dataset
 No null values in this dataset
 
 #### Duplicates:
+
+
 ![image](https://github.com/user-attachments/assets/4c857e20-749a-47aa-8717-48c6f015d6b1)
 
 
@@ -328,6 +339,8 @@ No null values in this dataset
 
 
 Dropping duplicates
+
+
 ![image](https://github.com/user-attachments/assets/db96dfdb-4272-41b3-929c-19bcb455d919)
 
 
