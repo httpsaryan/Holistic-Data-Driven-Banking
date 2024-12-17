@@ -228,12 +228,9 @@ Column-wise null values
 
 
 
-
-
 Dropping all null values of this dataset
 
 ![image](https://github.com/user-attachments/assets/15199032-3056-45a5-9b9a-3ce32e219e33)
-
 
 
 
@@ -250,7 +247,6 @@ Sr |  Column   |    Non-Null Count
 #### Duplicates:
 
 ![image](https://github.com/user-attachments/assets/5d4e1e4b-3410-41d9-a194-ce7f2e17cd78)
-
 
 
 
@@ -282,12 +278,12 @@ This dataset doesn't have any null, duplicates, or any inconsistencies
 ![image](https://github.com/user-attachments/assets/8f128376-8238-44fb-97ea-3c8036d43955)
 
 
-
 ![image](https://github.com/user-attachments/assets/f54304be-7032-4f1a-9305-fe415ee2905e)
 
 
 
 #### Duplicates:
+
 ![image](https://github.com/user-attachments/assets/ccd2c610-58c3-4256-a6f7-02f449fdf2d7)
 
 
@@ -318,14 +314,10 @@ No null values in this dataset
 
 #### Duplicates:
 
-
 ![image](https://github.com/user-attachments/assets/4c857e20-749a-47aa-8717-48c6f015d6b1)
 
 
-
-
 Dropping duplicates
-
 
 ![image](https://github.com/user-attachments/assets/db96dfdb-4272-41b3-929c-19bcb455d919)
 
