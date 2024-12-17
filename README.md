@@ -154,9 +154,9 @@ To delve deep into the bank's operations and customer behavior, we embarked on a
 
 ### 3.2 Data Quality Issues <a name="quality"></a>
 
-### Null Handling: Dealing with missing values
+#### Null Handling: Dealing with missing values
 
-1. ### Accounts:
+1. #### Accounts:
 ![image](https://github.com/user-attachments/assets/0ae7a02d-b6b3-4211-a22a-721f8598c09e)
 
 Columns      |  No. of Nulls  |
@@ -166,6 +166,24 @@ customer_id  |       11       |
 branch_id    |       11       |
 account_type |       0        |
 balance      |       0        |
+
+
+![image](https://github.com/user-attachments/assets/cad8a84a-91e0-4480-ac4d-b0ef538006b3)
+
+Here I'm dropping all values because filling all those 33 missing values will not make sense in this dataset
+![image](https://github.com/user-attachments/assets/0004f407-104f-44b5-99ac-1dfad0a48908)
+
+Columns after null dropping: 1043 entries
+Data columns: 5
+ #   Column    |    Non-Null Count 
+---  ------        -------------- 
+ 0   account_id  |  1043 non-null | 
+ 1   customer_id |  1043 non-null |  
+ 2   branch_id   |  1043 non-null  | 
+ 3   account_type | 1043 non-null | 
+ 4   balance   |    1043 non-null | 
+
+
 
   
 
