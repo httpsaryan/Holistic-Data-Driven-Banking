@@ -295,8 +295,19 @@ This dataset doesn't have any null, duplicates, or any inconsistencies
 No null values in this dataset
 ![image](https://github.com/user-attachments/assets/206645d3-174f-465f-9285-25ce5f2fcbc5)
 
+
+
+
+
+
 No duplicates in this dataset
 ![image](https://github.com/user-attachments/assets/ba9e2671-2cdb-4612-88a1-406de41c926a)
+
+
+
+
+
+
 
 
 #### 7. Transactions: Null handling
@@ -305,8 +316,15 @@ No null values in this dataset
 #### Duplicates:
 ![image](https://github.com/user-attachments/assets/4c857e20-749a-47aa-8717-48c6f015d6b1)
 
+
+
+
+
 Dropping duplicates
 ![image](https://github.com/user-attachments/assets/db96dfdb-4272-41b3-929c-19bcb455d919)
+
+
+
 
 
 
@@ -315,20 +333,44 @@ Dropping duplicates
 #### 1. Accounts
 ![image](https://github.com/user-attachments/assets/a32ace53-cba4-4c15-b294-cc7b6b5f2aec)
 
+
+
+
 #### 2. Customer
 ![image](https://github.com/user-attachments/assets/fa61d485-f1e3-4c3c-8419-886b4d4a4df6)
+
+
+
+
 
 #### 3. KYC
 ![image](https://github.com/user-attachments/assets/96a75853-63ed-4ef0-bd1f-427d06231419)
 
+
+
+
+
 #### 4. Loans
 ![image](https://github.com/user-attachments/assets/e5dfb84c-1a62-4a2e-a855-fa84462a22a8)
+
+
+
+
 
 #### 5. Payments
 ![image](https://github.com/user-attachments/assets/18a6bc0f-f5cd-421c-adfa-8d26edd37e38)
 
-#### Transactions
+
+
+
+
+#### 6. Transactions
 ![image](https://github.com/user-attachments/assets/bd391432-31f9-49f2-87bf-88c95258b416)
+
+
+
+
+
 
 
 
