@@ -1,5 +1,5 @@
 # Banking Data Analysis
-### By - Ujwala Ramteke and Aryan Singh
+### By - Aryan Singh and Ujwala Ramteke
 
 ### Banking Data Analytics Project 2024 
 
@@ -25,21 +25,24 @@ https://github.com/httpsaryan/Holistic-Data-Driven-Banking
 
 3. [Data Understanding](#dataunderstanding)
 
-   3.1 [Data Description](#datadescription)
-   - Accounts:
-   - Branches:
-   - Customer:
-   - KYC:
-   - Loans:
-   - Payments:
-   - Transactions:
+   3.1 [Data Description](#description)
 
-   3.2 [Data Quality Issues](#dataqualityissues)
+   3.2 [Data Quality Issues](#quality)
 
    3.3 [Summary Statistics](#stats)
 
 
 4. [Data Preparation](#dataprep)
+
+   4.1 [Data Cleaning](#cleaning)
+
+5. [Relationship building](#relations)
+
+6. [Insights](#insights)
+
+7. [Action Steps](#actionsteps)
+
+
 
 ## 1. Introduction <a name="introduction"></a>
 - This README describes work on the 7 Datasets of Banking for the Fundamentals of Data Analysis module assessment, which is due 15 December 2024. Resources used include Python and the associated packages Jupyter, numpy, matplotlib, seaborn, and Pandas, which are all part of the Python distribution.
@@ -86,4 +89,13 @@ The tool that we have used to do this analysis was Python (Jupyter Notebook) wit
 - Matplotlib and Seaborn - Used for Data Visualization to explore data patterns and trends
   1. Line plots to track trends over time (e.g., loan disbursals).
   2. Bar plots to compare categorical data (e.g., branch performance, customer segments).
+
+
+## 3. Data Understanding <a name="dataunderstanding"></a>
+To delve deep into the bank's operations and customer behavior, we embarked on a comprehensive exploratory data analysis (EDA) of the seven core datasets. This involved meticulously examining each dataset to understand its structure, identify potential data quality issues, and uncover underlying patterns.
+
+### 3.1 Data Description <a name="description"></a>
+- #### Accounts:
+This dataset provides granular information about customer accounts, including account numbers, opening dates, account types, and balances. By analyzing this data, we can identify trends in account openings, closures, and balance fluctuations. This dataset 
+  
 
