@@ -91,7 +91,7 @@ The tool that we have used to do this analysis was Python (Jupyter Notebook) wit
 To delve deep into the bank's operations and customer behavior, we embarked on a comprehensive exploratory data analysis (EDA) of the seven core datasets. This involved meticulously examining each dataset to understand its structure, identify potential data quality issues, and uncover underlying patterns.
 
 ### 3.1 Data Description <a name="description"></a>
-1. ### Accounts:
+### 1. Accounts:
 - This dataset provides granular information about customer accounts, including account numbers, opening dates, account types, and balances. By analyzing this data, we can identify trends in account openings, closures, and balance fluctuations.
 - It contains 1054 rows and 5 columns.
 - Data types of these columns -> account_id, customer_id, branch_id: integer/numbers ; account_type: string/text/object ; balance: float/decimal
@@ -99,7 +99,7 @@ To delve deep into the bank's operations and customer behavior, we embarked on a
 ![Accounts](png/accounts.png)  
 
 
-2. ### Branches:
+### 2. Branches:
 - This dataset contains details about the bank's branch network, such as branch IDs, locations, and contact information. By studying this data, we can assess the geographical distribution of branches and their potential impact on customer accessibility.
 - It contains 10 rows and 3 columns.
 - Data types of these columns -> branch_id: integer/numbers ; branch_name, branch_address: string/text/object
@@ -107,7 +107,7 @@ To delve deep into the bank's operations and customer behavior, we embarked on a
 ![Branches](png/branches.png)
 
 
-3. ### Customer Data:
+### 3. Customer Data:
 - This dataset stores customers' demographic and contact information, including names, addresses, phone numbers, and email addresses. Analyzing this data allows us to understand the customer base and identify potential target segments.
 - This file contains 1124 rows and 6 columns.
 - Data types of these columns -> customer_id, phone: integer/numbers ; first_name, last_name, email, address: string/text/object
@@ -115,7 +115,7 @@ To delve deep into the bank's operations and customer behavior, we embarked on a
 ![Customers Data](png/customer_data.png)
 
 
-4. ### KYC:
+### 4.  KYC:
 - This dataset contains Know Your Customer (KYC) documents and verification details for each customer. By reviewing this data, we can ensure compliance with regulatory requirements and assess the quality of customer onboarding processes.
 - This file contains 500 rows and 4 columns.
 - Data types of these columns -> kyc_id, customer_id: integer/numbers ; aadhar_number: complex ; kyc_status: string/text/object
@@ -123,7 +123,7 @@ To delve deep into the bank's operations and customer behavior, we embarked on a
 ![KYC](png/kyc.png)
 
 
-5. ### Loans:
+### 5. Loans:
 - This dataset includes loan details, such as loan amounts, interest rates, tenure, and repayment schedules. Analyzing this data helps us understand the bank's lending portfolio, identify trends in loan disbursals, and assess credit risk.
 - This file contains 550 rows and 6 columns.
 - Data types of these columns -> loan_id, customer_id: integer/numbers ; loan_type, loan_status: string/text/object ; loan_amount, interest_rate: float/decimal
@@ -131,7 +131,7 @@ To delve deep into the bank's operations and customer behavior, we embarked on a
 ![Loans](png/loans.png)
 
 
-6. ### Payments:
+### 6. Payments:
 - This dataset records payment transactions, including payment dates, amounts, and payment modes. By analyzing this data, we can gain insights into customer payment preferences, identify potential payment issues, and optimize payment processes.
 - This file contains 2000 rows and 3 columns.
 - Data types of these columns -> payment_id, loan_id: integer/numbers ; payment_amount: float/decimal
@@ -139,7 +139,7 @@ To delve deep into the bank's operations and customer behavior, we embarked on a
 ![Payments](png/payments.png)
 
 
-7. ### Transactions:
+### 7. Transactions:
 - This dataset contains transaction history for all accounts, including transaction dates, amounts, and transaction types. By analyzing this data, we can understand customer spending patterns, identify high-value customers, and detect potential fraudulent activities.
 - This file contains 2061 rows and 4 columns.
 - Data types of these columns -> transaction_id, account_id: integer/numbers ; transaction_type: string/text/object ; amount: float/decimal
