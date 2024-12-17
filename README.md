@@ -108,6 +108,7 @@ To delve deep into the bank's operations and customer behavior, we embarked on a
 - It contains 10 rows and 3 columns.
 - Data types of these columns -> branch_id: integer/numbers ; branch_name, branch_address: string/text/object
 
+![Branches](png/branches.png)
 
 
 3. ### Customer Data:
@@ -115,6 +116,7 @@ To delve deep into the bank's operations and customer behavior, we embarked on a
 - This file contains 1124 rows and 6 columns.
 - Data types of these columns -> customer_id, phone: integer/numbers ; first_name, last_name, email, address: string/text/object
 
+![Customers Data](png/customer_data.png)
 
 
 4. ### KYC:
@@ -122,6 +124,7 @@ To delve deep into the bank's operations and customer behavior, we embarked on a
 - This file contains 500 rows and 4 columns.
 - Data types of these columns -> kyc_id, customer_id: integer/numbers ; aadhar_number: complex ; kyc_status: string/text/object
 
+![KYC](png/kyc.png)
 
 
 5. ### Loans:
@@ -129,6 +132,7 @@ To delve deep into the bank's operations and customer behavior, we embarked on a
 - This file contains 550 rows and 6 columns.
 - Data types of these columns -> loan_id, customer_id: integer/numbers ; loan_type, loan_status: string/text/object ; loan_amount, interest_rate: float/decimal
 
+![Loans](png/loans.png)
 
 
 6. ### Payments:
@@ -136,6 +140,7 @@ To delve deep into the bank's operations and customer behavior, we embarked on a
 - This file contains 2000 rows and 3 columns.
 - Data types of these columns -> payment_id, loan_id: integer/numbers ; payment_amount: float/decimal
 
+![Payments](png/payments.png)
 
 
 7. ### Transactions:
@@ -143,7 +148,7 @@ To delve deep into the bank's operations and customer behavior, we embarked on a
 - This file contains 2061 rows and 4 columns.
 - Data types of these columns -> transaction_id, account_id: integer/numbers ; transaction_type: string/text/object, amount: float/decimal
 
-
+![Transactions](png.transactions.png)
 
 
   
