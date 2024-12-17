@@ -360,6 +360,32 @@ Dropping duplicates
 
 
 ## 4. Relationship Building <a name="relations"></a>
+Relationship building is like merging datasets, so that once the relation is been build between the datasets, then we can extract the information/insights for the analysis of this complete project.
+
+To establish meaningful relationships between the datasets, we employed a comprehensive data integration strategy. By identifying common keys and leveraging the power of SQL joins, we were able to link related information across different tables. For instance, the customer_id field served as a primary key to connect customer_data.csv with accountsdata.csv, loans.csv, and transactionsdata.csv. Similarly, the branch_id field linked branches.csv with transactionsdata.csv. This integrated dataset provided a holistic view of customer behavior, branch performance, and overall bank operations. By combining data from multiple sources, we were able to uncover deeper insights and make more informed decisions.
+
+A few dataset merging that I have used to establish relationships between datasets are:
+
+![image](https://github.com/user-attachments/assets/9c1b1ac1-ff0e-4d12-8877-13d7b9e63060)
+
+
+![image](https://github.com/user-attachments/assets/b376a54b-2e3a-4d29-a0eb-ed8577f82eab)
+
+
+![image](https://github.com/user-attachments/assets/9ce4bbf5-9ba6-4ecf-afd8-53a62429d40b)
+
+
+![image](https://github.com/user-attachments/assets/3cd63034-108b-49d7-a939-b4afffeaa838)
+
+
+![image](https://github.com/user-attachments/assets/ffca5389-00b9-468d-9fbc-9962728af682)
+
+
+![image](https://github.com/user-attachments/assets/9552cbaf-d3d9-4dbb-a2e8-cd37d8bd3215)
+
+
+
+
 
 
 
