@@ -192,13 +192,14 @@ Sr  |  Column    |    Non-Null Count
 
 
 #### Duplicates handling
+
 The total duplicated rows in the accounts dataset were 43.
 
-- ![image](https://github.com/user-attachments/assets/0a2916f8-4d0b-4f35-aaa0-fbd853e7923c)
+![image](https://github.com/user-attachments/assets/0a2916f8-4d0b-4f35-aaa0-fbd853e7923c)
 
 Dropping duplicates:
 
-- ![image](https://github.com/user-attachments/assets/def677e4-7248-493f-b570-ec6e2b640db0)
+![image](https://github.com/user-attachments/assets/def677e4-7248-493f-b570-ec6e2b640db0)
 
 
 Sr |  Column    |    Non-Null Count    
