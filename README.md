@@ -304,17 +304,11 @@ No null values in this dataset
 
 
 
-
-
-
 No duplicates in this dataset
 
 
 
 ![image](https://github.com/user-attachments/assets/ba9e2671-2cdb-4612-88a1-406de41c926a)
-
-
-
 
 
 
@@ -330,22 +324,10 @@ No null values in this dataset
 
 
 
-
-
-
-
-
-
-
-
 Dropping duplicates
 
 
 ![image](https://github.com/user-attachments/assets/db96dfdb-4272-41b3-929c-19bcb455d919)
-
-
-
-
 
 
 
