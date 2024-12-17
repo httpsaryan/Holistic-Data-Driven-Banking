@@ -216,13 +216,27 @@ This dataset just has 10 rows and doesn't have any null missing values or any in
 
 #### 3. Customers: Null handling
 In this dataset before handling null values and duplicates, I have removed the Phone column, because, in the phase of data understanding, I analyzed Phone column doesn't contribute to any insights or give any valuable information.
+
 ![image](https://github.com/user-attachments/assets/36dd4eb7-db8c-4e03-b980-66fe36ca2ece)
 
+
+
+
 Column-wise null values
+
 ![image](https://github.com/user-attachments/assets/0e589beb-8c71-4a07-974b-b9b65d521e54)
 
+
+
+
+
 Dropping all null values of this dataset
+
 ![image](https://github.com/user-attachments/assets/15199032-3056-45a5-9b9a-3ce32e219e33)
+
+
+
+
 
 Sr |  Column   |    Non-Null Count    
 ---|-----------|--------------------   
@@ -234,10 +248,19 @@ Sr |  Column   |    Non-Null Count
 
 
 #### Duplicates:
+
 ![image](https://github.com/user-attachments/assets/5d4e1e4b-3410-41d9-a194-ce7f2e17cd78)
 
+
+
+
 Dropping all duplicates from the Customer dataset
+
 ![image](https://github.com/user-attachments/assets/fb3102aa-af0a-429f-a17b-6e37321e8402)
+
+
+
+
 
 Sr | Column    |    Non-Null Count  
 --- | ------   |    --------------  
@@ -252,11 +275,17 @@ Sr | Column    |    Non-Null Count
 This dataset doesn't have any null, duplicates, or any inconsistencies
 
 #### 5. Loans: Null handling
+
 ![image](https://github.com/user-attachments/assets/e9fedb81-3727-45c8-b7de-5f14e33d5f5d)
+
 
 ![image](https://github.com/user-attachments/assets/8f128376-8238-44fb-97ea-3c8036d43955)
 
+
+
 ![image](https://github.com/user-attachments/assets/f54304be-7032-4f1a-9305-fe415ee2905e)
+
+
 
 #### Duplicates:
 ![image](https://github.com/user-attachments/assets/ccd2c610-58c3-4256-a6f7-02f449fdf2d7)
