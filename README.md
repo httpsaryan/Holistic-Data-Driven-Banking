@@ -157,7 +157,9 @@ To delve deep into the bank's operations and customer behavior, we embarked on a
 #### Null and Duplicates Handling: Dealing with missing values
 
 #### 1. Accounts: Null handling
+
 ![image](https://github.com/user-attachments/assets/0ae7a02d-b6b3-4211-a22a-721f8598c09e)
+
 
 Columns      |  No. of Nulls  |
 -------------|----------------|
@@ -170,11 +172,15 @@ balance      |       0        |
 
 ![image](https://github.com/user-attachments/assets/cad8a84a-91e0-4480-ac4d-b0ef538006b3)
 
+
 Here I'm dropping all values because filling all those 33 missing values will not make sense in this dataset
+
 ![image](https://github.com/user-attachments/assets/0004f407-104f-44b5-99ac-1dfad0a48908)
+
 
 Columns after null dropping: 1043 entries
 Data columns: 5
+
 
 Sr  |  Column    |    Non-Null Count 
 ----|----------|-------------------- 
@@ -186,12 +192,14 @@ Sr  |  Column    |    Non-Null Count
 
 
 #### Duplicates handling
-
 The total duplicated rows in the accounts dataset were 43.
-![image](https://github.com/user-attachments/assets/0a2916f8-4d0b-4f35-aaa0-fbd853e7923c)
+
+- ![image](https://github.com/user-attachments/assets/0a2916f8-4d0b-4f35-aaa0-fbd853e7923c)
 
 Dropping duplicates:
-![image](https://github.com/user-attachments/assets/def677e4-7248-493f-b570-ec6e2b640db0)
+
+- ![image](https://github.com/user-attachments/assets/def677e4-7248-493f-b570-ec6e2b640db0)
+
 
 Sr |  Column    |    Non-Null Count    
 ---|------------|-------------------  
