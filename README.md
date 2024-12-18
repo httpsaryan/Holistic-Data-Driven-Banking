@@ -794,7 +794,7 @@ Solutions:
 - Credit Bureau Integration: Leverage credit bureau data to obtain income and debt-to-income information for borrowers.
 - Develop Predictive Models: Use historical data and machine learning techniques to develop predictive models that assess repayment risk based on various factors, including income, debt-to-income ratio, and transaction history.
 
-### Risk: Customer_id 835: has a low balance 7832.6 but has taken multiple loans, including a home loan and an auto loan, with relatively high-interest rates. This could suggest potential financial distress or predatory lending practices.
+#### Risk: Customer_id 835: has a low balance 7832.6 but has taken multiple loans, including a home loan and an auto loan, with relatively high-interest rates. This could suggest potential financial distress or predatory lending practices.
 
 Elaboration:
 - Potential Financial Distress: A low account balance combined with multiple loans, especially high-interest loans, can indicate potential financial distress. This customer may be struggling to manage their debt - obligations and could be at risk of default.
