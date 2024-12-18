@@ -27,7 +27,7 @@ https://github.com/httpsaryan/Holistic-Data-Driven-Banking
 
    3.1 [Data Description](#description)
 
-   3.2 [Data Quality Issues](#quality)
+   3.2 [Data Quality Issues & Cleaning](#quality)
 
    3.3 [Summary Statistics](#stats)
 
@@ -148,7 +148,7 @@ To delve deep into the bank's operations and customer behavior, we embarked on a
 
 
 
-### 3.2 Data Quality Issues <a name="quality"></a>
+### 3.2 Data Quality Issues & Cleaning<a name="quality"></a>
 
 #### Null and Duplicates Handling: Dealing with missing values
 
@@ -388,6 +388,15 @@ A few dataset merging that I have used to establish relationships between datase
 
 ## 5. Insights <a name="insights"></a>
 
+This section will be the culmination of my analysis. I have presented the key findings and actionable insights derived from the data exploration and modeling.
+
+The Insights section is crucial in communicating the value of your analysis to stakeholders and demonstrating the potential impact of data-driven decision-making.
+
+Firstly, I have added "Branch Performance Analysis" to highlight key findings on branch performance, such as identifying top-performing branches, identifying branches with high customer churn, and pinpointing areas for improvement in customer service.
+
+### Branch Performance Analysis
+
+1. 
 
 
 
