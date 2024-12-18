@@ -403,7 +403,7 @@ Firstly, I have added "Branch Performance Analysis" to highlight key findings on
 #### 1. Total number of Savings and Current Accounts per Branch
 
 
-
+![sav-cur-per-branch](png/sav-cur-per-branch.png)
 
 
 Illustrates a clear distinction in the distribution of Savings and Current accounts across various branches. Savings accounts significantly outnumber Current accounts in almost all branches, indicating a higher inclination toward savings-oriented financial products among customers.
