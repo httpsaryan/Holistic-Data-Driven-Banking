@@ -441,7 +441,7 @@ Current accounts are significantly fewer, suggesting:
 
 #### 2. Customer count per branch
 
-![cus-per-branch](png/customer_per_branch.png)
+![cus-per-branch](png/customerperbranch.png)
 
 
 This chart illustrates variations in customer engagement across different branches.
