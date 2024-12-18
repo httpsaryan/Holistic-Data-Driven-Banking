@@ -396,7 +396,14 @@ Firstly, I have added "Branch Performance Analysis" to highlight key findings on
 
 ### Branch Performance Analysis
 
-1. 
+#### 1. Total number of Savings and Current Accounts per Branch
+
+![image](https://github.com/user-attachments/assets/81486936-ad87-4d95-b702-7658823fe0a9)
+
+
+The analysis of account types across different branches reveals some interesting insights. Branch Y15a stands out with the highest number of Savings accounts, suggesting a strong preference for savings products in that area. Conversely, M20i has the highest number of Current accounts, indicating a higher demand for transactional accounts in that region.
+
+Overall, the distribution of account types varies across branches, highlighting the diverse needs and preferences of customers in different locations. These insights can be valuable for the bank in tailoring its product offerings and marketing strategies to better meet customers' specific needs in each branch.
 
 
 
