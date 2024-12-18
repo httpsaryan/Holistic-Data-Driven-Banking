@@ -441,7 +441,7 @@ Current accounts are significantly fewer, suggesting:
 
 #### 2. Customer count per branch
 
-![cus-per-branch](png/customerperbranch.png)
+![cus-per-branch](png/cus-per-branch.png)
 
 
 This chart illustrates variations in customer engagement across different branches.
@@ -465,7 +465,7 @@ The analysis highlights the importance of understanding branch-level performance
 
 #### 3. Highest and lowest balance per branch 
 
-![high-low-bal-per-branch](png/high-low_bal_branch.png)
+![high-low-bal-per-branch](png/high-low-bal-branch.png)
 
 
 This chart illustrates variations in account balances across different branches.
@@ -489,7 +489,7 @@ The analysis highlights the importance of understanding branch-level performance
 
 #### 4. Total balance per branch 
 
-![total-bal-branch](png/Total_balance_per_branch.png)
+![total-bal-branch](png/Total-bal-per-branch.png)
 
 
 
@@ -539,7 +539,7 @@ The analysis highlights the importance of understanding branch-level performance
 #### 6. Total no. of transactions processed per branch
 
 
-![tran-per-branch](png/transaction_per_branch.png)
+![tran-per-branch](png/tran-per-branch.png)
 
 
 Key Observations and In-Depth Analysis
