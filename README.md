@@ -766,7 +766,7 @@ Overall, understanding customer preferences for savings, loan types, and account
 
 
 
-## Risk and its solutions:
+## Risk and its solutions <a name="risk"></a>
 
 #### Risk: Customers_id 721, 835, 384 with multiple loans having “Pending”& "Under Review" KYC status are indeed a concern. This could indicate a lack of proper identity verification, potentially leading to fraud or default.
 
