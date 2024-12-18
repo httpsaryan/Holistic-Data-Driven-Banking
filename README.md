@@ -441,7 +441,7 @@ Current accounts are significantly fewer, suggesting:
 
 #### 2. Customer count per branch
 
-
+![cus-per-branch](png/customer_per_branch.png)
 
 
 This chart illustrates variations in customer engagement across different branches.
@@ -465,7 +465,7 @@ The analysis highlights the importance of understanding branch-level performance
 
 #### 3. Highest and lowest balance per branch 
 
-
+![high-low-bal-per-branch](png/high-low_bal_branch.png)
 
 
 This chart illustrates variations in account balances across different branches.
@@ -489,6 +489,7 @@ The analysis highlights the importance of understanding branch-level performance
 
 #### 4. Total balance per branch 
 
+![total-bal-branch](png/Total_balance_per_branch.png)
 
 
 
@@ -511,7 +512,7 @@ The analysis highlights the importance of understanding branch-level performance
 
 #### 5. Balances across different account types per branch
 
-
+![bal-acc-type](png/bal-acc-type.png)
 
 
 This chart illustrates variations in account balances across different branches, segmented by account type (Current and Savings).
@@ -538,6 +539,7 @@ The analysis highlights the importance of understanding branch-level performance
 #### 6. Total no. of transactions processed per branch
 
 
+![tran-per-branch](png/transaction_per_branch.png)
 
 
 Key Observations and In-Depth Analysis
@@ -574,7 +576,7 @@ This project delves into customer behavior by analyzing key datasets such as acc
 
 #### 1. Distribution of Customers by Account Type
 
-
+![cus-sav-curr](png/cus-sav-curr.png)
 
 
 The analysis of customer distribution by account type reveals a strong preference for Savings accounts among the bank's customer base.
@@ -598,7 +600,7 @@ The analysis highlights a clear preference for Savings accounts among the bank's
 
 #### 2. Number of Customers having Active loan status
 
-
+![cus-active-loans](png/cus-active-loans.png)
 
 
 The analysis of customer distribution by loan type reveals that customers show a clear preference for Home loans over other types, followed by Personal loans and Auto loans. Each category holds a significant share of customers, but there is a noticeable variation in their proportions.
@@ -631,7 +633,7 @@ By understanding these customer preferences, the bank can optimize its lending p
 ### 3. Loan status of customers 
 
 
-
+![loan-status](png/loan-status.png)
 
 
 The pie chart titled "% of Loan Status of Customers" illustrates the distribution of loan statuses among the bank's customers, revealing a relatively balanced portfolio.
@@ -649,7 +651,7 @@ The near-equal distribution of active and closed loans indicates a healthy loan 
 #### 4. Type of Loans customers are preferring most
 
 
-
+![cus-dis-loan-type](png/cus-dis-loan-type.png)
 
 
 The analysis of customer distribution by loan type reveals that customers show a clear preference for Home loans over other types, followed by Personal loans and Auto loans. Each category holds a significant share of customers, but there is a noticeable variation in their proportions.
@@ -684,7 +686,7 @@ Auto Loans remain significant but show a comparatively lower preference, signali
 #### 5. KYC Status of Customers
 
 
-
+![cus-kyc-stats](png/cus-kyc-stats.png)
 
 
 The distribution of customers based on their KYC (Know Your Customer) status reveals an uneven but relatively balanced spread across three primary categories:
